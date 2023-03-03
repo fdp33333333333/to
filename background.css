@@ -1,0 +1,5 @@
+.background { background-image: url(terre.jpg);
+		   padding: 100px 0px;x
+		   background-size: cover;
+		   position: relative;
+		   z-index:1;}           

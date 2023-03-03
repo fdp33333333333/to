@@ -1,0 +1,30 @@
+.banner { background-image: url(babolat.jpg);
+		   color: white;
+		   padding: 100px 0px;
+
+		   background-size: cover;
+		   background-position: constant;
+ }
+
+.banner h1 { font-weight:bold;
+			 font-size: 58px; 
+			 width: 62px;
+    		 margin: 0 auto;
+			 }
+
+.banner h2 {font-weight: lighter;
+    font-size: 34px;
+    margin-top: -64px;
+    width: 494px;
+    position: relative;
+    left: 52px;
+		}	
+.banner img {height: 87px;
+    width: 127px;
+    position: relative;
+    top: -75px;
+    left: 55px;
+}
+
+
+linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.1) 50%),
